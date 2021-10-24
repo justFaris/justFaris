@@ -3,7 +3,7 @@
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=justFaris&theme=dracula)
 
 ## 👀 Profile Views
-<img align='left' src='https://komarev.com/ghpvc/?username=justFaris&color=red'><br>
+<img align='left' src='https://gpvc.arturio.dev/justFaris'><br>
 ## 📞 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discordhub.com/profile/719857006491598868)
